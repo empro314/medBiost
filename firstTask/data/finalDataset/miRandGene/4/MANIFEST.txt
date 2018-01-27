@@ -1,0 +1,3 @@
+id	filename	md5	size	state
+915d872a-dfdb-4d0a-8a77-00166f09d0b7	915d872a-dfdb-4d0a-8a77-00166f09d0b7/d50c9013-3aee-4b1f-be93-225e568da7c3.FPKM-UQ.txt.gz	068d1249575ed19519ea68fccc95fd85	537020	live
+a6bf766b-c287-412e-ac82-abf58477fa5e	a6bf766b-c287-412e-ac82-abf58477fa5e/d902ff3a-a127-44e4-875e-a606cb5a193d.mirbase21.mirnas.quantification.txt	89b62942060202c79a89730c3f2b0a0e	50629	live

@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+e995fcb0-602c-418e-89e9-62d8ffe1a3aa	e995fcb0-602c-418e-89e9-62d8ffe1a3aa/8cb39efc-4bfb-49df-bc48-159d9211bc5a.FPKM.txt.gz	36d56d00b85bc4fcd5fd5b778499dac0	542366	live
