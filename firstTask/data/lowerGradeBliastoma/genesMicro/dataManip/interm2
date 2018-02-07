@@ -1,6 +1,6 @@
 #!/bin/bash
 
-file="./keys"
+file="./controlKey"
 
 while IFS=' ' read -r f1 f2 
 do
