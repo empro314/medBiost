@@ -1,0 +1,12 @@
+#!/bin/bash
+
+file="./keys"
+
+while IFS=' ' read -r f1 f2 
+do
+    mkdir "$f2"
+    mv "$f1" "$f2"/
+
+done <"$file"
+
+

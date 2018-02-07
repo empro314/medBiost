@@ -1,0 +1,11 @@
+#!/bin/bash
+
+file="../mix/keys"
+
+while IFS=' ' read -r f1 f2 
+do
+    printf "$f2 \n"
+    #printf "$f1 $f2 \n" 
+done <"$file"
+
+
